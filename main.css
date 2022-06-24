@@ -1,0 +1,14 @@
+:root {
+    --blurple: #6867AC;
+    --morepurple: #A267AC;
+    --Nuepink: #CE7BB0;
+    --PurPink: #FFBCD1;
+  }
+
+  html {
+    background: var(--PurPink);
+  } 
+
+  h2 {
+    color: var(--blurple);
+  }
